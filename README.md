@@ -1,4 +1,5 @@
-# AtliQ-Grands-Hospitality--Revenue-Insights-using-PowerBI
+# AtliQ-Grands-Hospitality--Revenue-Insights-using-PowerBI 
+
 
  Background of Atliq Grands:-
 
@@ -7,6 +8,18 @@ Atliq Grands is a prestigious hotel chain operating in major Indian cities such 
 Problem Statement:
 
 Atliq is facing intense competition, leading to a decline in revenue and market share. To counter this, the management has brought in a Data Analyst team to make data-driven decisions aimed at increasing revenue.
+
+
+Tools Used :-
+
+1️⃣ MS Excel
+
+2️⃣ Power BI 
+
+Data Modelling :- 
+
+![Data Modelling](https://github.com/raidden007/AtliQ-Grands-Hospitality--Revenue-Insights-using-PowerBI/assets/157223617/950d016c-a36a-4ddd-81bd-29330c9ea95f)
+
 
 Insights Generated:-
 
